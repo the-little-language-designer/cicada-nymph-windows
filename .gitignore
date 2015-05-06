@@ -1,0 +1,11 @@
+*~
+*#*
+*.bin
+*.exe
+*.ccd
+
+/play
+
+cn
+cn32
+cicada-nymph
